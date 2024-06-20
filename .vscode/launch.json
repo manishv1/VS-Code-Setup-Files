@@ -19,6 +19,7 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
+            //Debugger path must be set 
             "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
             "setupCommands": [
                 {
