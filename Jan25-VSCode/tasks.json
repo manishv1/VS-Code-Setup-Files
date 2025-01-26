@@ -4,7 +4,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "echo Compiling ${fileBasename}... && g++ -g ${file} -o ${fileDirname}/${fileBasenameNoExtension}",
+            "command": "echo ManishV Compiling ${fileBasename} using c++17... && g++ --std=c++17 -g ${file} -o ${fileDirname}/${fileBasenameNoExtension}",
             "group": {
                 "kind": "build",
                 "isDefault": true
