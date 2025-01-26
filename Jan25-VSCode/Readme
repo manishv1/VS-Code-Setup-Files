@@ -1,0 +1,12 @@
+In this I am sharing some editied good files which cares of 
+
+
+1. tasks.json 
+     Added a way to add comeent when task command is run
+     Shortcut to Build program is  ctrl+shift+B
+2. launch.json 
+     Here first a "build" task is run then launch command is done to execute the program 
+     Shortcut to Build and Run is press th ">" icon on vscode 
+
+3. Shortcut to open the launch environment is Ctrl+Shift+D 
+  
